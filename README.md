@@ -82,7 +82,3 @@ An **interactive dashboard** was created in **Power BI** to visualize key insigh
 - **Visualization**: Designed an interactive and visually appealing dashboard.
 - **Business Understanding**: Delivered actionable insights relevant to HR operations.
  
-## Future Improvements
-- Add predictive analytics to forecast attrition trends.
-- Enrich the analysis with additional datasets, such as employee feedback.
-- Use advanced DAX formulas for more detailed calculations.
